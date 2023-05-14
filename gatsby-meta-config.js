@@ -2,7 +2,7 @@ module.exports = {
   title: `타미의 개발일지`,
   description: `프론트엔드 개발을 하며 공부한 내용을 작성합니다.`,
   author: `타미`,
-  introduction: ``,
+  introduction: `공부하고 경험한 내용을 글로 작성합니다. 지적, 보충은 언제나 환영입니다 🙂`,
   siteUrl: `https://xodms0309.github.io/`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
