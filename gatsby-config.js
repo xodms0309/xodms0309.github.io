@@ -68,7 +68,7 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-google-analytics`,
+      resolve: `gatsby-plugin-google-gtag`,
       options: {
         trackingId: metaConfig.ga,
         head: true,
@@ -96,8 +96,8 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-robots-txt',
       options: {
-        host: 'https://your-blog.netlify.app',
-        sitemap: 'https://your-blog.netlify.app/sitemap.xml',
+        host: 'https://xodms0309.github.io',
+        sitemap: 'https://xodms0309.github.io/sitemap.xml',
         policy: [
           {
             userAgent: '*',
