@@ -13,7 +13,7 @@ module.exports = {
     instagram: ``, // Your Instagram account
   },
   icon: `content/assets/icon.png`, // Add your favicon
-  keywords: [`blog`, 'React', 'JavaScript', 'Typescript', '프론트엔드'],
+  keywords: [`개발 블로그`, 'React', 'JavaScript', 'Typescript', '프론트엔드'],
   comment: {
     disqusShortName: '', // Your disqus-short-name. check disqus.com.
     utterances: 'xodms0309/xodms0309.github.io', // Your repository for archive comment
@@ -27,6 +27,6 @@ module.exports = {
   share: {
     facebookAppId: '', // Add facebookAppId for using facebook share feature v3.2
   },
-  ga: 'G-53R20TQG1T', // Add your google analytics tranking ID
+  ga: `G-53R20TQG1T`, // Add your google analytics tranking ID
   ad: '', // Add your google adsense publisherId `ca-pub-xxxxxxxxxx`
 }
